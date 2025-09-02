@@ -1,3 +1,3 @@
-# implementing a simple llm framework
+# implementing a simple and tiny agent
 
-in this repository, i'm going to implement a minimalist llm framework!
+in this repository, i'm going to implement a minimalist llm framework and a tiny agent!
